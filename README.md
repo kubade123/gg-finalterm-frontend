@@ -1,6 +1,6 @@
 # GigihPlay - a wanna be clone of tokopedia play
 
-GigihPlay is a finalterm project that i work on from Generasi GIGIH 3.0. Tech stack used for the frontend is React JS.
+GigihPlay is a finalterm project that i work on in Generasi GIGIH 3.0. Tech stack used for the frontend is React JS.
 
 ## Installation
 
