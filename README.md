@@ -20,4 +20,5 @@ npm install
 6. User profile and username on top right corner of the page
 7. Usage of react router
 8. built with Chakra UI
+9. Two custoom hooks, for fething data and handling form
 
