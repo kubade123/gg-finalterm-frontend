@@ -4,7 +4,7 @@ GigihPlay is a finalterm project that i work on in Generasi GIGIH 3.0. Tech stac
 
 ## Installation
 
-Use the package manager [npm](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager npm.
 
 ```bash
 npm install
