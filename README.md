@@ -1,8 +1,24 @@
-# React + Vite
+# GigihPlay - a wanna be clone of tokopedia play
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+GigihPlay is a finalterm project that i work on in Generasi GIGIH 3.0. Tech stack used for the frontend is React JS.
 
-Currently, two official plugins are available:
+## Installation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Use the package manager npm.
+
+```bash
+npm install
+```
+
+## Features
+
+1. Video list in card layout
+2. Video detail page to see the detail related to the promoted video such as products and comments from users.
+3. Ability to add video and product related to particular video
+4. Search feature for video list
+5. Sidebar
+6. User profile and username on top right corner of the page
+7. Usage of react router
+8. built with Chakra UI
+9. Two custoom hooks, for fething data and handling form
+
