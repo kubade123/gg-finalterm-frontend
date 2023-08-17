@@ -4,12 +4,32 @@ GigihPlay is a finalterm project that i work on in Generasi GIGIH 3.0. Tech stac
 
 ## Installation
 
-Use the package manager npm.
+Clone this repository 
+```bash
+git clone https://github.com/kubade123/gg-finalterm-frontend.git
+```
+
+Navigate to directory
+```bash
+cd gg-finalterm-frontend
+```
+
+Use the package manager npm to install necessary dependencies
 
 ```bash
 npm install
 ```
+Run the App on development server
+```bash
+npm run dev
+```
 
+make sure to run the backend server beforehand
+
+go to the [localhost](http://127.0.0.1:5173/)
+```
+http://127.0.0.1:5173/
+```
 ## Features
 
 1. Video list in card layout
